@@ -1,4 +1,4 @@
-## Ola, eu sou o João Silva
+## Ola!, eu sou o João Silva
  
 🌱 Estou atualmente aprendendo JAVA
 
